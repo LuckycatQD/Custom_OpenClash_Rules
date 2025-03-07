@@ -5,16 +5,18 @@
 # 此规则文件中的域名会定期 PR 至 Geosite 数据库，并删除已被 Geosite 收录的域名，因此请在支持 Geosite 的软件（如 OpenClash）中使用。
 
 #以下是自定义的直连内容.保留Aethersailor源文件的list
-DOMAIN-KEYWORD,wogg
-DOMAIN-KEYWORD,vdyoo
-DOMAIN-KEYWORD,tal.com
-DOMAIN,*.tal.com
-DOMAIN,genie.vdyoo.net
-DOMAIN,video-member.tal.com
-DOMAIN,checkip.amazonaws.com
-DOMAIN-KEYWORD,snssdk.com
+
+# 玩偶哥哥域名（精准匹配）
 DOMAIN-SUFFIX,wogg.net
 DOMAIN,wogg.xxooo.cf
 DOMAIN,wogg.888484.xyz
 DOMAIN,www.wogg.bf
 DOMAIN,woggapi.333232.xyz
+
+# 学而思学习机
+DOMAIN-SUFFIX,tal.com
+DOMAIN-SUFFIX,vdyoo.net
+
+# 其他服务
+DOMAIN,checkip.amazonaws.com
+DOMAIN-SUFFIX,snssdk.com
