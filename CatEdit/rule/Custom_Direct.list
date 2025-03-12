@@ -12,6 +12,7 @@ DOMAIN,wogg.xxooo.cf
 DOMAIN,wogg.888484.xyz
 DOMAIN,www.wogg.bf
 DOMAIN,woggapi.333232.xyz
+DOMAIN-SUFFIX,wogg.lol
 
 #观影
 DOMAIN-SUFFIX,gying.net
@@ -25,20 +26,21 @@ DOMAIN-SUFFIX,gyg.si
 DOMAIN-SUFFIX,4kfm.com
 
 #玩你
-DOMAIN-SUFFIX,tv.yydsys.top
+DOMAIN,tv.yydsys.top
 
 #蜡笔
 DOMAIN-SUFFIX,doupan.fun
 
 #木偶
-DOMAIN-SUFFIX,tv.91muou.icu
-DOMAIN-SUFFIX,mo.666291.xyz
-DOMAIN-SUFFIX,mo.muouso.fun
+DOMAIN,tv.91muou.icu
+DOMAIN,mo.666291.xyz
+DOMAIN,muouso.fun
 DOMAIN-SUFFIX,feimaoai.site
 DOMAIN-SUFFIX,feimao666.fun
 
-#小米
+#小米 小米UC
 DOMAIN-SUFFIX,mucpan.cc
+DOMAIN-SUFFIX,milvdou.fun
 
 #至臻
 DOMAIN-SUFFIX,mihdr.top
