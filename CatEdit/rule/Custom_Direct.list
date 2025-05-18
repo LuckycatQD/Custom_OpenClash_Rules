@@ -6,6 +6,11 @@
 
 #以下是自定义的直连内容.保留Aethersailor源文件的list
 
+#banye的域名
+DOMAIN-SUFFIX,banye.teah
+
+
+
 # 玩偶哥哥域名（精准匹配）
 DOMAIN-SUFFIX,wogg.net
 DOMAIN,wogg.xxooo.cf
