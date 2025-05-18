@@ -8,8 +8,8 @@
 
 #banye的域名
 DOMAIN-SUFFIX,banye.tech
-
-
+DOMAIN,gyf.banye.tech
+DOMAIN,ruku.banye.tech
 
 # 玩偶哥哥域名（精准匹配）
 DOMAIN-SUFFIX,wogg.net
