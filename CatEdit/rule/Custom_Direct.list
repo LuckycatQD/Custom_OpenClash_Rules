@@ -6,6 +6,10 @@
 
 #以下是自定义的直连内容.保留Aethersailor源文件的list
 
+#小雅真心人：
+#新加坡vps
+IP-CIDR,111.119.196.208/32,no-resolve
+
 # banye的域名
 DOMAIN-SUFFIX,banye.tech
 DOMAIN,gyf.banye.tech
