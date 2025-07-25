@@ -7,11 +7,11 @@
 #以下是自定义的直连内容.保留Aethersailor源文件的list
 
 #自己的域名
-DOMAIN-SUFFIX,luckycat.cloudns.org,DIRECT
-DOMAIN-SUFFIX,luckycat.qzz.io,DIRECT
-DOMAIN-SUFFIX,lkct666.cloudns.biz,DIRECT
-DOMAIN-SUFFIX,luckycat.ip-ddns.com,DIRECT
-DOMAIN-SUFFIX,luckycat.ddns-ip.net,DIRECT
+DOMAIN-SUFFIX,luckycat.cloudns.org
+DOMAIN-SUFFIX,luckycat.qzz.io
+DOMAIN-SUFFIX,lkct666.cloudns.biz
+DOMAIN-SUFFIX,luckycat.ip-ddns.com
+DOMAIN-SUFFIX,luckycat.ddns-ip.net
 
 #小雅真心人：
 #新加坡vps
