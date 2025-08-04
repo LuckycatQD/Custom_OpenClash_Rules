@@ -17,23 +17,73 @@ DOMAIN-SUFFIX,luckycat.ddns-ip.net
 #新加坡vps
 IP-CIDR,111.119.196.208/32,no-resolve
 
+
+
 # banye的域名
 DOMAIN-SUFFIX,banye.tech
 DOMAIN,gyf.banye.tech
 DOMAIN,ruku.banye.tech
 
-# 玩偶哥哥域名（精准匹配）
+# -------------------- 玩偶 --------------------
+DOMAIN-SUFFIX,wogg.lol
 DOMAIN-SUFFIX,wogg.net
-DOMAIN,wogg.xxooo.cf
+DOMAIN-SUFFIX,wogg.one
+DOMAIN-SUFFIX,xxooo.cf
+DOMAIN-SUFFIX,heshiheng.top
+DOMAIN-SUFFIX,333232.xyz
 DOMAIN,wogg.888484.xyz
 DOMAIN,www.wogg.bf
-DOMAIN,woggapi.333232.xyz
-DOMAIN-SUFFIX,wogg.lol
+DOMAIN-SUFFIX,woggapi.333232.xyz
 
-#王二小
+# -------------------- 木偶 --------------------
+DOMAIN-SUFFIX,666291.xyz
+DOMAIN-SUFFIX,91muou.icu
+DOMAIN-SUFFIX,muouso.fun
+
+# -------------------- 蜡笔 --------------------
+DOMAIN-SUFFIX,feimao888.fun
+DOMAIN-SUFFIX,feimaoai.site
+DOMAIN-SUFFIX,feimao666.fun
+DOMAIN-SUFFIX,labi88.sbs
+DOMAIN-SUFFIX,doupan.fun
+
+# -------------------- 至臻 --------------------
+DOMAIN-SUFFIX,mihdr.top
+DOMAIN-SUFFIX,miqk.cc
+DOMAIN-SUFFIX,milvdou.fun
+DOMAIN-SUFFIX,xiaomi666.fun
+DOMAIN-SUFFIX,xiaomiai.site
+
+# -------------------- 多多 --------------------
+DOMAIN-SUFFIX,214521.xyz
+DOMAIN-SUFFIX,yydsys.cc
+DOMAIN-SUFFIX,yydsys.top
+
+# -------------------- 欧哥 --------------------
+DOMAIN,woog.nxog.eu.org
+
+# -------------------- 二小 --------------------
+DOMAIN-SUFFIX,2xiaopan.fun
+DOMAIN-SUFFIX,erxiaofn.site
+DOMAIN-SUFFIX,erxiaofn.click
+DOMAIN-SUFFIX,xhww.net
+DOMAIN,xiaoer.5568.eu.org
+DOMAIN,wexfnw.999888456.xyz
+IP-CIDR,89.213.49.249/32
+
+# -------------------- 虎斑 --------------------
+IP-CIDR,103.45.162.207/32
+
+# -------------------- 闪电 --------------------
+IP-CIDR,1.95.79.193/32
+
+# -------------------- 小斑 --------------------
+DOMAIN-SUFFIX,xsayang.fun
+
+# -------------------- 王二小 --------------------
 DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
 
-#观影
+# -------------------- 观影 --------------------
 DOMAIN-SUFFIX,gying.net
 DOMAIN-SUFFIX,gying.org
 DOMAIN-SUFFIX,gying.si
@@ -41,31 +91,15 @@ DOMAIN-SUFFIX,gying.in
 DOMAIN-SUFFIX,gyg.la
 DOMAIN-SUFFIX,gyg.si
 
-#4k
+# -------------------- 4k --------------------
 DOMAIN-SUFFIX,4kfm.com
+DOMAIN-SUFFIX,xuexizhinan.com
+DOMAIN-SUFFIX,4kfox.com
 
-#玩你
-DOMAIN,tv.yydsys.top
-
-#蜡笔
-DOMAIN-SUFFIX,doupan.fun
-
-#木偶
-DOMAIN,tv.91muou.icu
-DOMAIN,mo.666291.xyz
-DOMAIN,muouso.fun
-DOMAIN-SUFFIX,feimaoai.site
-DOMAIN-SUFFIX,feimao666.fun
-
-#小米 小米UC
+# -------------------- 小米 小米UC --------------------
 DOMAIN-SUFFIX,mucpan.cc
-DOMAIN-SUFFIX,milvdou.fun
 
-#至臻
-DOMAIN-SUFFIX,mihdr.top
-
-
-#非凡资源网
+# -------------------- 非凡资源网 --------------------
 DOMAIN-SUFFIX,ffzy888.com
 DOMAIN,cj.ffzyapi.com
 
@@ -79,7 +113,7 @@ DOMAIN,checkip.amazonaws.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,lvyinbar.com
 
-#moontv相关的域名
+#-----------------------moontv相关的域名-------------------------
 
 #精准域名
 DOMAIN,c1.ddbbffcdn.com
@@ -135,3 +169,5 @@ DOMAIN-SUFFIX,mzzyjpg.com
 DOMAIN-SUFFIX,jisuimage.com
 DOMAIN-SUFFIX,st22yhezxhtf.com
 DOMAIN-SUFFIX,uoiqmwhmk2tt.com
+
+#-----------------------moontv相关的域名-------------------------
