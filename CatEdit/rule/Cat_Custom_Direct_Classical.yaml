@@ -1,0 +1,119 @@
+payload:
+  # NAME: Custom_Direct
+  # AUTHOR: Aethersailor
+  # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
+  # 强制直连域名列表，来自个人收集
+
+  #以下是自定义的直连内容.保留Aethersailor源文件的list
+
+  #自己的域名
+  - DOMAIN-SUFFIX,luckycat.cloudns.org
+  - DOMAIN-SUFFIX,luckycat.qzz.io
+  - DOMAIN-SUFFIX,lkct666.cloudns.biz
+  - DOMAIN-SUFFIX,luckycat.ip-ddns.com
+  - DOMAIN-SUFFIX,luckycat.ddns-ip.net
+
+  #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
+  - DOMAIN-SUFFIX,mathpix.com
+  #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
+
+
+  #小雅真心人：
+  #新加坡vps
+  - IP-CIDR,111.119.196.208/32,no-resolve
+
+
+
+  # banye的域名
+  - DOMAIN-SUFFIX,banye.tech
+  - DOMAIN,gyf.banye.tech
+  - DOMAIN,ruku.banye.tech
+
+  # -------------------- 玩偶 --------------------
+  - DOMAIN-SUFFIX,wogg.lol
+  - DOMAIN-SUFFIX,wogg.net
+  - DOMAIN-SUFFIX,wogg.one
+  - DOMAIN-SUFFIX,xxooo.cf
+  - DOMAIN-SUFFIX,heshiheng.top
+  - DOMAIN-SUFFIX,333232.xyz
+  - DOMAIN,wogg.888484.xyz
+  - DOMAIN,www.wogg.bf
+  - DOMAIN-SUFFIX,woggapi.333232.xyz
+
+  # -------------------- 木偶 --------------------
+  - DOMAIN-SUFFIX,666291.xyz
+  - DOMAIN-SUFFIX,91muou.icu
+  - DOMAIN-SUFFIX,muouso.fun
+
+  # -------------------- 蜡笔 --------------------
+  - DOMAIN-SUFFIX,feimao888.fun
+  - DOMAIN-SUFFIX,feimaoai.site
+  - DOMAIN-SUFFIX,feimao666.fun
+  - DOMAIN-SUFFIX,labi88.sbs
+  - DOMAIN-SUFFIX,doupan.fun
+
+  # -------------------- 至臻 --------------------
+  - DOMAIN-SUFFIX,mihdr.top
+  - DOMAIN-SUFFIX,miqk.cc
+  - DOMAIN-SUFFIX,milvdou.fun
+  - DOMAIN-SUFFIX,xiaomi666.fun
+  - DOMAIN-SUFFIX,xiaomiai.site
+
+  # -------------------- 多多 --------------------
+  - DOMAIN-SUFFIX,214521.xyz
+  - DOMAIN-SUFFIX,yydsys.cc
+  - DOMAIN-SUFFIX,yydsys.top
+
+  # -------------------- 欧哥 --------------------
+  - DOMAIN,woog.nxog.eu.org
+
+  # -------------------- 二小 --------------------
+  - DOMAIN-SUFFIX,2xiaopan.fun
+  - DOMAIN-SUFFIX,erxiaofn.site
+  - DOMAIN-SUFFIX,erxiaofn.click
+  - DOMAIN-SUFFIX,xhww.net
+  - DOMAIN,xiaoer.5568.eu.org
+  - DOMAIN,wexfnw.999888456.xyz
+  - IP-CIDR,89.213.49.249/32
+
+  # -------------------- 虎斑 --------------------
+  - IP-CIDR,103.45.162.207/32
+
+  # -------------------- 闪电 --------------------
+  - IP-CIDR,1.95.79.193/32
+
+  # -------------------- 小斑 --------------------
+  - DOMAIN-SUFFIX,xsayang.fun
+
+  # -------------------- 王二小 --------------------
+  - DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
+
+  # -------------------- 观影 --------------------
+  - DOMAIN-SUFFIX,gying.net
+  - DOMAIN-SUFFIX,gying.org
+  - DOMAIN-SUFFIX,gying.si
+  - DOMAIN-SUFFIX,gying.in
+  - DOMAIN-SUFFIX,gyg.la
+  - DOMAIN-SUFFIX,gyg.si
+
+  # -------------------- 4k --------------------
+  - DOMAIN-SUFFIX,4kfm.com
+  - DOMAIN-SUFFIX,xuexizhinan.com
+  - DOMAIN-SUFFIX,4kfox.com
+
+  # -------------------- 小米 小米UC --------------------
+  - DOMAIN-SUFFIX,mucpan.cc
+
+  # -------------------- 非凡资源网 --------------------
+  - DOMAIN-SUFFIX,ffzy888.com
+  - DOMAIN,cj.ffzyapi.com
+
+
+  # 学而思学习机
+  - DOMAIN-SUFFIX,tal.com
+  - DOMAIN-SUFFIX,vdyoo.net
+
+  # 其他服务
+  - DOMAIN,checkip.amazonaws.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,lvyinbar.com
