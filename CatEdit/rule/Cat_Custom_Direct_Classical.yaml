@@ -14,7 +14,7 @@ payload:
   - DOMAIN-SUFFIX,luckycat.ddns-ip.net
 
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
-  - DOMAIN-SUFFIX,mathpix.com
+  #- DOMAIN-SUFFIX,mathpix.com
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
 
 
