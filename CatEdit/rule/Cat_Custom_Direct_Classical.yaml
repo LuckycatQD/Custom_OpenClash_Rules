@@ -19,7 +19,7 @@ payload:
 
   # cmLiu的域名  cmliussss.com
   - DOMAIN-SUFFIX,cmliussss.com
-  
+  - DOMAIN-SUFFIX,cmliussss.net
   #小雅真心人：
   #新加坡vps
   - IP-CIDR,111.119.196.208/32,no-resolve
