@@ -17,7 +17,9 @@ payload:
   #- DOMAIN-SUFFIX,mathpix.com
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
 
-
+  # cmLiu的域名  cmliussss.com
+  - DOMAIN-SUFFIX,cmliussss.com
+  
   #小雅真心人：
   #新加坡vps
   - IP-CIDR,111.119.196.208/32,no-resolve
