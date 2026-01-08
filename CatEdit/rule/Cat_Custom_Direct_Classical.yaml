@@ -12,6 +12,10 @@ payload:
   - DOMAIN-SUFFIX,lkct666.cloudns.biz
   - DOMAIN-SUFFIX,luckycat.ip-ddns.com
   - DOMAIN-SUFFIX,luckycat.ddns-ip.net
+  - DOMAIN-SUFFIX,ql.ccwu.cc
+  - DOMAIN-SUFFIX,rongxuan.ccwu.cc
+  - DOMAIN-SUFFIX,luckycat.ccwu.cc
+  - DOMAIN-SUFFIX,miao.ccwu.cc
 
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
   #- DOMAIN-SUFFIX,mathpix.com
@@ -20,6 +24,11 @@ payload:
   # cmLiu的域名  cmliussss.com
   - DOMAIN-SUFFIX,cmliussss.com
   - DOMAIN-SUFFIX,cmliussss.net
+  
+  #域名注册商
+  - DOMAIN-SUFFIX,dnshe.com
+
+  
   #小雅真心人：
   #新加坡vps
   - IP-CIDR,111.119.196.208/32,no-resolve
