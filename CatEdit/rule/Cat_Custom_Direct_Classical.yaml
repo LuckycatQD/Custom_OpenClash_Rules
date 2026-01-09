@@ -30,7 +30,7 @@ payload:
   
   #小雅真心人：
   #新加坡vps
-  - IP-CIDR,111.119.196.208/32,no-resolve
+  #- IP-CIDR,111.119.196.208/32,no-resolve
 
 
 
