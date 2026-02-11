@@ -17,6 +17,14 @@ payload:
   - DOMAIN-SUFFIX,luckycat.ccwu.cc
   - DOMAIN-SUFFIX,miao.ccwu.cc
 
+
+  # 联通IPTV相关网段
+  - IP-CIDR,124.132.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,112.245.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,239.0.0.0/8,DIRECT,no-resolve  # 组播地址段，必须直连
+
+  
+
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
   #- DOMAIN-SUFFIX,mathpix.com
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
