@@ -135,3 +135,18 @@ payload:
   - DOMAIN,checkip.amazonaws.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,lvyinbar.com
+  
+# IP检测与真实地址探测接口（防止被PG爬虫误判为海外IP）
+  - DOMAIN-SUFFIX,ip.sb
+  - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-SUFFIX,ip-api.com
+  - DOMAIN-SUFFIX,ipinfo.io
+  - DOMAIN-SUFFIX,icanhazip.com
+  - DOMAIN-SUFFIX,ident.me
+  - DOMAIN-SUFFIX,myip.la
+
+# 咪咕视频与咪咕体育核心及CDN分发
+  - DOMAIN-SUFFIX,miguvideo.com
+  - DOMAIN-SUFFIX,cmvideo.cn
+  - DOMAIN-SUFFIX,migu.cn
+  - DOMAIN-SUFFIX,migucloud.com
