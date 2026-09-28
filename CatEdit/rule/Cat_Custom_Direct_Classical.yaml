@@ -23,6 +23,45 @@ payload:
   - IP-CIDR,112.245.0.0/16,DIRECT,no-resolve
   - IP-CIDR,239.0.0.0/8,DIRECT,no-resolve  # 组播地址段，必须直连
 
+
+
+ # ====================【红果短剧 / 字节跳动短剧流】====================
+  - DOMAIN-SUFFIX,hongguoduanju.com
+  - DOMAIN-SUFFIX,novelshort.com
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,toutiaovod.com    # 【极其重要】红果核心视频切片CDN，漏网必走代理
+  - DOMAIN-SUFFIX,byteimg.com       # 红果短剧封面海报
+  - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-SUFFIX,snssdk.com        # 字节API/Token鉴权
+  - DOMAIN-SUFFIX,pstatp.com
+  - DOMAIN-SUFFIX,toutiaoapi.com
+  - DOMAIN-SUFFIX,volces.com        # 火山引擎流媒体服务
+  - DOMAIN-SUFFIX,volcsirius.com
+
+  # ====================【七猫短剧】====================
+  - DOMAIN-SUFFIX,qimao.com
+  - DOMAIN-SUFFIX,km.com
+  - DOMAIN-SUFFIX,qimaocdn.com
+
+  # ====================【星芽短剧】====================
+  - DOMAIN-SUFFIX,xingyashort.com
+  - DOMAIN-SUFFIX,jiashu.cn
+  - DOMAIN-SUFFIX,dushu.im
+
+  # ====================【河马剧场 / 河马短剧】====================
+  - DOMAIN-SUFFIX,hemajc.com
+  - DOMAIN-SUFFIX,hemaduanju.com
+
+  # ====================【果果 / 抹茶 / 常见短剧CMS】====================
+  - DOMAIN-SUFFIX,mochadj.com
+  - DOMAIN-SUFFIX,djbika.com
+  - DOMAIN-SUFFIX,duanju.org
+
+  # ====================【短剧常用国内直链对象存储】====================
+  - DOMAIN-SUFFIX,myqcloud.com      # 腾讯云COS（短剧第三方源常用存储）
+  - DOMAIN-SUFFIX,aliyuncs.com      # 阿里云OSS
+  - DOMAIN-SUFFIX,123pan.cn         # 123网盘直链
+
   
 
   #-----------------------mathpix.com   ai复制的数学公式转换------------------------------
