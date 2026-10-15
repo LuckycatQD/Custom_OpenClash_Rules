@@ -1,0 +1,11 @@
+
+payload:
+  # =====================Yang IPTV==================
+  # === 核心体育与海外中继源 ===
+  - DOMAIN-SUFFIX,yang-1989.xyz
+  - DOMAIN-SUFFIX,qd.je
+  # === 港澳官方直采源 ===
+  - DOMAIN-SUFFIX,hoy.tv
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,tdm.com.mo
+  # =====================Yang IPTV==================
